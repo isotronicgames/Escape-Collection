@@ -12,6 +12,7 @@ BotaoColeta.jpg
 Brinquedo.png
 BrinquedoColeta.jpg
 CadeiraCelular.jpg
+CadeiraCelular2.jpg
 Caderno1.jpg
 Caderno2.jpg
 Caneta.png
