@@ -1,0 +1,10 @@
+Botao.png
+Brinquedo.png
+Caneta.png
+Cartao.png
+Chave.png
+Chiclete.png
+Controle.png
+Lanterna.png
+Letra.png
+Soda.png
