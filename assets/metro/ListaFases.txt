@@ -35,6 +35,7 @@ ExtintorD.jpg
 ExtintorE.jpg
 FendaColeta.jpg
 Fio.jpg
+FinalMetro3.jpg
 Lancheira.jpg
 Lancheira2.jpg
 Lanterna.png
@@ -62,6 +63,7 @@ Letra D.png
 Letra E.png
 Letra N.png
 Letra O.png
+Letreiro.jpg
 Painel Metro Bot1.2.png
 Painel Metro Bot1.png
 AreaBanco.jpg
