@@ -109,6 +109,7 @@ Q2MD.png
 Q2ME.png
 QuebraCabeça.jpg
 Saida.jpg
+Soda.png
 TelaLixo.jpg
 Moeda.png
 Fenda.png
