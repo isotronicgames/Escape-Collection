@@ -110,3 +110,5 @@ Q2ME.png
 QuebraCabeça.jpg
 Saida.jpg
 TelaLixo.jpg
+Moeda.png
+Fenda.png
