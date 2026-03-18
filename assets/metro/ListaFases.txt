@@ -64,3 +64,23 @@ Letra N.png
 Letra O.png
 Painel Metro Bot1.2.png
 Painel Metro Bot1.png
+AreaBanco.jpg
+AreaChiclete.jpg
+AreaMetro.jpg
+CameraAmarela.jpg
+CameraAzul.jpg
+CameraDesligada.jpg
+CameraLigada.jpg
+CameraVerde.jpg
+CameraVermelha.jpg
+Maleta.jpg
+MaquinaChiclete.jpg
+MoedaExtintor.jpg
+PainelBanco.jpg
+PainelBanco2.jpg
+PainelCadeado.jpg
+PainelMetro.jpg
+PlacaMetro.jpg
+PlacaVerde.jpg
+PlacaVermelha.jpg
+TelaLixo.jpg
