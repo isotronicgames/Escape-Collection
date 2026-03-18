@@ -57,6 +57,7 @@ Chiclete.png
 Controle.png
 Controle coleta1.jpg
 ControleColeta2.jpg
+ColetaChaveMaleta.jpg
 ExtintorB.jpg
 ExtintorC.jpg
 ExtintorD.jpg
