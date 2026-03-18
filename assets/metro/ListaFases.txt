@@ -54,6 +54,8 @@ Celular3.jpg
 Chave.png
 ChaveColeta.jpg
 Chiclete.png
+ChicleteColeta1.jpg
+ChicleteColeta2.jpg
 Controle.png
 Controle coleta1.jpg
 ControleColeta2.jpg
