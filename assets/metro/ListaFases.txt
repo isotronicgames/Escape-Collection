@@ -36,3 +36,4 @@ ParedePorta.jpg
 QuebraCabeça.jpg
 Saida.jpg
 Soda.png
+botaoUI.png
